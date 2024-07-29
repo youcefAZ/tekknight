@@ -19,11 +19,11 @@
 
 
 	<dependencies>
-	<!-- <dependency> -->
-	<!-- <groupId>com.fastcube.tibco.Its.APP6.tekknight</groupId> -->
-	<!-- <artifactId>bw.app.application</artifactId> -->
-	<!-- <version>${project.version}</version> -->
-	<!-- <type>ear</type> -->
-	<!-- </dependency> -->
-	</dependencies>
+            <dependency>
+                <groupId>com.fastcube.tibco.Its.APP6.tekknight</groupId>
+                <artifactId>bw.mc-tekknight.application</artifactId>
+                <version>${project.version}</version>
+                <type>ear</type>
+            </dependency>
+        </dependencies>
 </project>

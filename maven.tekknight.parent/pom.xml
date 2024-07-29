@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-tekknight.parent</module>
+    </modules>
 </project>
